@@ -25,6 +25,7 @@ To integrate this component into your project, follow these steps:
 3.  **Install dependencies**:
     ```sh
     npm install
+    
 4.  **Run the project**:
     ```sh
     npm run serve
