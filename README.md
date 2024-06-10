@@ -35,7 +35,7 @@ Here's an example of how to use the VAutocomplete Infinite Scroll component in y
 1. ```shell
     <template>
         <div>
-        <VAutocompleteInfiniteScroll />
+        <VAutocompleteInfiniteScroll/>
       </div>
     </template>
 
