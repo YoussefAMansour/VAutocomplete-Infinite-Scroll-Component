@@ -20,7 +20,7 @@ To integrate this component into your project, follow these steps:
    
 2. **Navigate to the project directory**:
     ```sh
-   cd v-autocomplete-infinite-scroll
+   cd VAutocomplete-Infinite-Scroll
 
 3.  **Install dependencies**:
     ```sh
