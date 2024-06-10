@@ -21,7 +21,7 @@
           <template v-if="users.length > 0 && !allDataLoaded">
             Loading more users...
           </template>
-          <template v-if="!search && allDataLoaded && dataEverLoaded">
+          <template v-else-if="!search && allDataLoaded && dataEverLoaded">
             No More Data.
           </template>
         </div>
