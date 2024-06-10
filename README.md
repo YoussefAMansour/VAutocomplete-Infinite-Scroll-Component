@@ -16,7 +16,8 @@ To integrate this component into your project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/v-autocomplete-infinite-scroll.git
+   git clone https://github.com/YoussefAMansour/VAutocomplete-Infinite-Scroll-Single-Select
+   
 2. **Navigate to the project directory**:
     ```sh
    cd v-autocomplete-infinite-scroll
