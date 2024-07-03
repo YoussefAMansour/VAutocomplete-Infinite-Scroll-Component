@@ -3,6 +3,8 @@
   <img alt="Vuetify Logo" width="100" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
  </a>
 </p>
+
+
 # VAutocomplete Infinite Scroll Component
 
 This repository provides a Vue 3 component using Vuetify 3 that extends the VAutocomplete functionality with infinite scrolling capabilities. The component allows users to search for and select items from a dynamically loaded list, ideal for applications with large datasets where loading all items at once is impractical.
